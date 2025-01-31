@@ -7,6 +7,12 @@ body {
     padding: 0;
 }
 
+ul {
+    list-style-type: none;  /* Removes bullets from list items */
+    padding: 0;             /* Removes default padding */
+    margin: 0;              /* Removes default margin */
+}
+
 h1 {
     color: #FFD700; /* Gold color for headings */
     font-family: 'Pacifico', cursive; /* Fun font for headings */
